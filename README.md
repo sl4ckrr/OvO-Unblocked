@@ -15,12 +15,11 @@ https://sl4ckrr.github.io./TSOS
 
   
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="" alt="" class="img-fluid" width="20%" height="20%" id="logo"><img src="" alt="" class="img-fluid" width="20%" height="20%" id="logo">
-<img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 
 
 full of games and even our jsemulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 # - sl4ckrr
-<img src="pfp.jpeg" alt="img here" class="img-fluid" width="150px" height="150px" id="logo">
-<img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="pfp.jpeg" alt="img here" class="img-fluid" width="150px" height="150px" id="logo"><img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
