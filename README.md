@@ -6,7 +6,7 @@ created by Ossama 'skymen' Jouini :)
 
 more games here:
 <a>https://sl4ckrr.github.io./projects.html
-or visit the site of sites
+# or visit the site of sites
 <img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 full of games and even our jsemulator:
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
