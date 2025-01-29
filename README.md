@@ -12,6 +12,8 @@ https://sl4ckrr.github.io./TSOS
 # more games here:
 - the sl4ckrr game library
   https://sl4ckrr.github.io./projects.html
+
+  
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 
 full of games and even our jsemulator:
