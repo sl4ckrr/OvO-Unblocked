@@ -5,7 +5,7 @@ description: OvO is a fast paced parkour platformer. It started as a fun game ja
 created by Ossama 'skymen' Jouini :)
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
 extras
-<img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
+<img src="ruby.jpg" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
