@@ -12,6 +12,9 @@ https://sl4ckrr.github.io./TSOS
 # more games here:
 - the sl4ckrr game library
   https://sl4ckrr.github.io./projects.html
+    https://sl4ckrr.github.io./ovo
+  
+
 
   
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="" alt="" class="img-fluid" width="20%" height="20%" id="logo"><img src="" alt="" class="img-fluid" width="20%" height="20%" id="logo">
@@ -20,6 +23,8 @@ https://sl4ckrr.github.io./TSOS
 
 full of games and even our jsemulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
+  https://sl4ckrr.github.io./jsemulator
+
 
 # - sl4ckrr
 <img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
