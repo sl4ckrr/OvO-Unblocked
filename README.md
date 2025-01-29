@@ -8,7 +8,9 @@ more games here:
 <a>https://sl4ckrr.github.io./projects.html
 or visit the site of sites
 <img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+full of games and even our jsemulator:
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
