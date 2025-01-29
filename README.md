@@ -11,8 +11,7 @@ https://sl4ckrr.github.io./TSOS
 
 # more games here:
 - the sl4ckrr game library https://sl4ckrr.github.io./projects.html
-
-- OvO Unblcoked https://sl4ckrr.github.io./ovo
+- OvO Unblocked https://sl4ckrr.github.io./ovo
   
 
 
