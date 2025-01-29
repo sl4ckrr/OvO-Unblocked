@@ -6,6 +6,7 @@ created by Ossama 'skymen' Jouini :)
 
 more games here:
 <a>https://sl4ckrr.github.io./projects.html
+or visit the site of sites
 <img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="40px" height="40px" id="logo">
 
