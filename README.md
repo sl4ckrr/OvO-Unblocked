@@ -16,6 +16,6 @@ https://sl4ckrr.github.io./TSOS
 <img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 full of games and even our jsemulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
--sl4ckrr
+## -sl4ckrr
 
 <img src="pfp.jpeg" alt="img here" class="img-fluid" width="40px" height="40px" id="logo">
