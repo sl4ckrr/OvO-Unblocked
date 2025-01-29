@@ -5,10 +5,11 @@ description: OvO is a fast paced parkour platformer. It started as a fun game ja
 created by Ossama 'skymen' Jouini :)
 
 # visit the site of sites
+<img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
+
 https://sl4ckrr.github.io./projects.html
 
 # more games here:
-<img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 full of games and even our jsemulator:
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
