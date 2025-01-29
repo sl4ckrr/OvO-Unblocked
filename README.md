@@ -27,4 +27,5 @@ just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 
 # - sl4ckrr
+newgrounds? soon maybe but follow tiktok and insta for more updates on the unblocked games.
 <img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
