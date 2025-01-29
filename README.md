@@ -15,7 +15,7 @@ https://sl4ckrr.github.io./TSOS
 
   
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="offline.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
-<img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="newgrounds_logo.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
 
 
 full of games and even our jsemulator:
