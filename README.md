@@ -17,8 +17,8 @@ https://sl4ckrr.github.io./TSOS
 
 
   
-<img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="firered.jpeg" alt="" class="img-fluid" width="20%" height="20%" id="logo"><img src="" alt="Leafgreen.jpg" class="img-fluid" width="20%" height="20%" id="logo">
-<img src="" alt="smash.jpeg" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="firered.jpeg" alt="" class="img-fluid" width="20%" height="20%" id="logo"><img src="leafgreen.jpg" alt="Leafgreen.jpg" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="smash.jpeg" alt="smash.jpeg" class="img-fluid" width="20%" height="20%" id="logo">
 
 
 full of games and even our jsemulator:
