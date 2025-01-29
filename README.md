@@ -14,7 +14,9 @@ https://sl4ckrr.github.io./TSOS
   https://sl4ckrr.github.io./projects.html
 
   
-<img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo"><img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+<img src="default.png" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+
 
 full of games and even our jsemulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
