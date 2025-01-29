@@ -7,11 +7,14 @@ created by Ossama 'skymen' Jouini :)
 # visit the site of sites
 <img src="tsos.png" alt="img here" class="img-fluid" width="40%" height="40%" id="logo">
 
-https://sl4ckrr.github.io./projects.html
+https://sl4ckrr.github.io./TSOS
 
 # more games here:
-full of games and even our jsemulator:
+- the sl4ckrr game library
+  https://sl4ckrr.github.io./projects.html
 <img src="ruby.jpg" alt="img here" class="img-fluid" width="20%" height="20%" id="logo">
+
+full of games and even our jsemulator:
 just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 <img src="" alt="img here" class="img-fluid" width="900px" height="150px" id="logo">
