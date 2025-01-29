@@ -29,9 +29,9 @@ just drop the file into the project and it will load the gba,gbc,gb wtv idc
 # - sl4ckrr
 newgrounds? soon maybe but follow tiktok and insta for more updates on the unblocked games.
 
--https://
--https://
--https://
+- https://
+- https://
+- https://
 
 
 
