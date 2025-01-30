@@ -26,6 +26,7 @@ just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 
 # - sl4ckrr
+follow my ewgrouds for wesite updates and bug fixes!
 (https://rhap5ody.newgrounds.com/)
 - https://
 - https://
