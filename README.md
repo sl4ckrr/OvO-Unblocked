@@ -26,10 +26,13 @@ just drop the file into the project and it will load the gba,gbc,gb wtv idc
 
 
 # - sl4ckrr
-follow my ewgrouds for wesite updates and bug fixes!
+follow my newgrouds for website updates and bug fixes!
 (https://rhap5ody.newgrounds.com/)
-- https://
-- https://
+
+other socals here:
+- https://www.instagram.com/slac.krr?igsh=Y2U3eGVrZ2thMm5x&utm_source=qr
+- https://www.tiktok.com/@sl4ckrr?_t=ZT-8tUPgOK3PEx&_r=1
+- https://on.soundcloud.com/Cp6rTBxjCLhQWHtN9
 - https://
 
 
